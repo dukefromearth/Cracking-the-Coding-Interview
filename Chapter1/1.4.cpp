@@ -25,6 +25,6 @@ bool isPalindromePermutation(string s)
 
 int main()
 {
-    string input = "Tact Coa";
+    string input = "aas as";
     cout << isPalindromePermutation(input);
 }
